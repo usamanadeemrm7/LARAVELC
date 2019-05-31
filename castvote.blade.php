@@ -570,7 +570,7 @@ select {
         
         <div class="sub-main-w3">
 
-            <form action="calculate" method="GET">
+            <form action="gvote" method="GET">
             {{  csrf_field()  }}
 
              <div class="form-style-agile">
